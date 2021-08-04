@@ -18,7 +18,6 @@ How the satellite services going to affect the tracker?
 4. TESTING
 5. DEPLOYMENT
 6. TESTING
-
 Unit Testing: check whether the data being received is accurate.
 Integration Testing: check if the modules such as the GPS tracker and the train’s alarm system are working as expected together,
 also if the data is stored properly in the database.
