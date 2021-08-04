@@ -31,5 +31,8 @@ also if the data is stored properly in the database.
 System Testing: check the working of the central control system.
 
 5. DEPLOYMENT
+Continuous monitoring of all the devices and also the database is done after deployment.
+
+
 6. TESTING
 7. MAINTENANCE
