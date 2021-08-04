@@ -30,5 +30,4 @@ Integration Testing: check if the modules such as the GPS tracker and the trainâ
 also if the data is stored properly in the database.
 System Testing: check the working of the central control system.
 
-5. TESTING
 6. DEPLOYMENT AND MAINTENANCE
