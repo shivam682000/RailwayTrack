@@ -19,6 +19,10 @@ This information is available to both the users and the central department of th
 
 
 3. DEVELOPMENT
+Functions performed by the GPS tracker:
+If the location of the GPS have a match in the predefined database then the train’s database should be updated with the location and time.
+The GPS module should also be connected to the train’s alarm system and if there is any unexpected incident then that should be notified to the nearest railway station and also the rescue team.
+
 4. TESTING
 
 Unit Testing: check whether the data being received is accurate.
