@@ -15,6 +15,10 @@ How the satellite services going to affect the tracker?
 
 2. DESIGN
 3. DEVELOPMENT
+Functions performed by the GPS tracker:
+If the location of the GPS have a match in the predefined database then the train’s database should be updated with the location and time.
+The GPS module should also be connected to the train’s alarm system and if there is any unexpected incident then that should be notified to the nearest railway station and also the rescue team.
+
 4. TESTING
 5. DEPLOYMENT
 6. TESTING
