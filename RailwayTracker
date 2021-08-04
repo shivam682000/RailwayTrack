@@ -1,34 +1,6 @@
-RAILWAY TRACKER DOCUMENT
-
-1. REQUIREMENTS AND INFORMATION GATHERING
-GPS Module
-Microcontroller
-Notification sensor
-Plotting graph - AWS IOT ThingSpeak
-Relay circuit
-Satellite services
-
-2. DESIGN
-Install GPS module in the engine of the train.
-Train’s alarm system linked to the GPS.
-If there is any accident then the location of the train is automatically sent to the nearest railway station and rescue team.
-Have all the important locations in the database.
-Update of train’s location when there is a match.
-Control system to monitor data.
-This information is available to both the users and the central department of the railways.
-
-
-3. DEVELOPMENT AND IMPLEMENTATION
-Functions performed by the GPS tracker:
-If the location of the GPS have a match in the predefined database then the train’s database should be updated with the location and time.
-The GPS module should also be connected to the train’s alarm system and if there is any unexpected incident then that should be notified to the nearest railway station and also the rescue team.
-
-4. TESTING
+5. TESTING
 
 Unit Testing: check whether the data being received is accurate.
 Integration Testing: check if the modules such as the GPS tracker and the train’s alarm system are working as expected together, 
 also if the data is stored properly in the database.
 System Testing: check the working of the central control system.
-
-5. DEPLOYMENT AND MAINTENANCE
-Continuous monitoring of all the devices and also the database is done after deployment.
