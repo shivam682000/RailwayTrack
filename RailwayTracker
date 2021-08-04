@@ -1,3 +1,13 @@
+RAILWAY TRACKER DOCUMENT
+
+1. REQUIREMENTS
+GPS Module
+Microcontroller
+Notification sensor
+Plotting graph - AWS IOT ThingSpeak
+Relay circuit
+Satellite services
+
 2. INFORMATION GATHERING
 The working of GPS.
 The working of microcontroller, relay circuits.
