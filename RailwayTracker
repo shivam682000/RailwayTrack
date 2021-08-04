@@ -35,4 +35,8 @@ Continuous monitoring of all the devices and also the database is done after dep
 
 
 6. TESTING
+Unit Testing: check whether the data being received is accurate.
+Integration Testing: check if the modules such as the GPS tracker and the train’s alarm system are working as expected together, also if the data is stored properly in the database.
+System Testing: check the working of the central control system.
+
 7. MAINTENANCE
