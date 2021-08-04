@@ -1,3 +1,9 @@
+branch_6
+6. DEPLOYMENT AND MAINTENANCE
+Continuous monitoring of all the devices and also the database is done after deployment.
+
+This is done using SDLC methodologies
+=======
 
 3. DESIGN
 Install GPS module in the engine of the train.
@@ -24,6 +30,6 @@ Satellite services
 2. INFORMATION GATHERING
 The working of GPS.
 The working of microcontroller, relay circuits.
-How the satellite services going to affect the tracker?
+How the satellite services going to affect the tracker.
 
-
+main
