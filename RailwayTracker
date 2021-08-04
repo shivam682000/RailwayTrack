@@ -1,6 +1,13 @@
 RAILWAY TRACKER DOCUMENT
 
 1. REQUIREMENTS AND INFORMATION GATHERING
+GPS Module
+Microcontroller
+Notification sensor
+Plotting graph - AWS IOT ThingSpeak
+Relay circuit
+Satellite services
+
 2. DESIGN
 3. DEVELOPMENT
 4. TESTING
